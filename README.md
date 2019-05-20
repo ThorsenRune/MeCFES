@@ -60,5 +60,6 @@ Un obiettivo attuale è di rendere il sistema disponibile per tutti coloro che d
 
 ### Italiano
 xxx
-# Edit
-[This file](https://github.com/ThorsenRune/MeCFES/edit/master/README.md)
+# Links
+[Edit file](https://github.com/ThorsenRune/MeCFES/edit/master/README.md)
+[View web page] (https://thorsenrune.github.io/MeCFES)
