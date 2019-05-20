@@ -1,5 +1,6 @@
 # Stimolazione elettrica controllato da segnali mioelettrici  
  - MeCFES – un neuroprotesi
+### Co-design di un ausilio avvanzato
  (Per la parte OpenSource il progetto continuo con acronimo LM)
  l progetto MeCFES (Myoelectrically controlled functional electrical stimulation) ha come scopo principale la riabilitazione di pazienti affetti da disabilita motorie. Si rivolge verso le persone con danni alla sistema nervosa centrale come: ictus, lesioni spinali, sclerosi multipla o trauma cranico, etc.
 # Indice del progetto (link technici)
@@ -40,19 +41,21 @@ Nel riabilitazione neuromotoria di pazienti con ictus si sa che il coinvolgiment
 
 Persone con mieolesione potrebbe invece ottenere un controllato incremento della forza esibito in modo di per esempio ottenere una presa più ferma dei oggetti nella vita quotidiana. Altra importate aspetto riguarda il problema della percezione del proprio movimento. Il MeCFES funge anche ome bio-feedback perchè la stimolazione coinvolge anche la propriocezione.
 
-Come si costruisce il neuroprotesi
+### Come si costruisce il neuroprotesi
 Il sviluppo scientifico del progetto ha portato un serie di pubblicazioni che descrive i dettagli della sistema. Inanzitutto serve del hardware elettronico costruito apposito per erogare la stimolazione simultaneamente con la registrazione del EMG. L’algoritmo di controllo richiede un elaborazione digitale che potrebbe essere eseguito di tanti recenti microcontrollori. Lo sviluppo elettronico ha reso possibile di miniaturizzare il sistema al punto che le batteria che devono fornire l’energia diventano la parte più ingombrante, ma anche li il progresso tecnologico lavora per noi. L’ultima parte ancora da risolvere al meglio è come realizzare un sistema indossabile. Attualmente i prototipi MeCFES richiedono che gli elettrodi vengono piazzate manualmente e collegati con fili di media lunghezza al unità di controllo. Seppure risulta funzionale sarebbe auspicabile di facilitare l’applicazione nel modo che utente potrebbe ‘indossare’ il neuroprotesi in autonomia.
 
-Prospettive futuri
+### Prospettive futuri
 Un obiettivo attuale è di rendere il sistema disponibile per tutti coloro che desiredono a testare la tecnica e valutare se sarebbe un soluzione per aumentare la propria autonomia e ridurre la disabilità. Sembra che ci sia una tendenza di auto-aiuto e di maggior coinvolgimento nel ricerca di soluzioni per le proprie bisogni di superare le sfide della vita quotidiana. Insieme al movimento dei ‘tinkers’ e ‘makers’ le base tecnologiche sono pronto per sostenere un Neuroprotesi free and open source, ovvero rendere possibile la riabilitazione fai-da-te, ovviamente in collaborazione con clinici ed istituzioni competenti.  
 
 
 # Ulteriori informazioni
-##Articoli divulgativi: [La scarica elettrica su misura per i tetraplegici](http://salute.ilgiornale.it/news/21776/-fondazione-gnocchi-dispositivo-don/1.html)
+##Articoli divulgativi:
+
+[La scarica elettrica su misura per i tetraplegici](http://salute.ilgiornale.it/news/21776/-fondazione-gnocchi-dispositivo-don/1.html)
 
 ## Links to older sites
 
 ### Inglish
 [Sourceforge: Myo-Electrically Controlled Functional Electrical muscle Stimulation. An utility for assisting the tetraplegic hand. A method of rehabilitation after stroke.](https://sourceforge.net/p/mecfes/wiki/Home/)
 
-###Italiano
+### Italiano
