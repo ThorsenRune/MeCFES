@@ -63,4 +63,4 @@ xxx
 # Links
 [Edit file](https://github.com/ThorsenRune/MeCFES/edit/master/README.md)
 
-[View web page] (https://thorsenrune.github.io/MeCFES)
+[View web page](https://thorsenrune.github.io/MeCFES)
