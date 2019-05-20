@@ -1,3 +1,8 @@
+github_MeCFES
+https://github.com/ThorsenRune/MeCFES/edit/master/README.md
+
+markdown
+
 # Stimolazione elettrica controllato da segnali mioelettrici  
  - MeCFES – un neuroprotesi
 ### Co-design di un ausilio avvanzato
@@ -10,11 +15,11 @@ Collaborative design results
 Four repositories with documentation of the device have been published:
 [LM_APP](https://github.com/ThorsenRune/LM-Android
 
-LM_HW https://github.com/ThorsenRune/LM-HW
+[Electronics hardware LM_HW](https://github.com/ThorsenRune/LM-HW)
 
-LM_ElAp https://cad.onshape.com/documents/661382f7fa0e94bae04c481c/w/cea5bdd3a732ac9eed1e4dd4/e/99b5a64c64c716ef593bdf7d
+[Electrode Applicator - LM_ElAp](https://cad.onshape.com/documents/661382f7fa0e94bae04c481c/w/cea5bdd3a732ac9eed1e4dd4/e/99b5a64c64c716ef593bdf7d) Current onshape drawing.
 
-LM_FW  https://github.com/ThorsenRune/LM_FW
+[Firmware - LM_FW]( https://github.com/ThorsenRune/LM_FW)
 
 
 ## Italiano
@@ -60,7 +65,12 @@ Un obiettivo attuale è di rendere il sistema disponibile per tutti coloro che d
 [Sourceforge: Myo-Electrically Controlled Functional Electrical muscle Stimulation. An utility for assisting the tetraplegic hand. A method of rehabilitation after stroke.](https://sourceforge.net/p/mecfes/wiki/Home/)
 
 ### Italiano
-...
+xxx
 # Edit
 [This file](https://github.com/ThorsenRune/MeCFES/edit/master/README.md)
+
+
+
+
+
 
