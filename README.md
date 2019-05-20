@@ -2,12 +2,13 @@
  - MeCFES – un neuroprotesi
 ### Co-design di un ausilio avvanzato
  (Per la parte OpenSource il progetto continuo con acronimo LM)
- l progetto MeCFES (Myoelectrically controlled functional electrical stimulation) ha come scopo principale la riabilitazione di pazienti affetti da disabilita motorie. Si rivolge verso le persone con danni alla sistema nervosa centrale come: ictus, lesioni spinali, sclerosi multipla o trauma cranico, etc.
+
+Il progetto utilizzando Myo-electrically Controlled Functional Electrical Stimulation,  ha come scopo principale la riabilitazione di pazienti affetti da disabilità motorie. Si rivolge verso le persone con danni alla sistema nervosa centrale come: ictus, lesioni spinali, sclerosi multipla o trauma cranico, etc.
 # Indice del progetto (link technici)
 ## English
 Collaborative design results
 Four repositories with documentation of the device have been published:
-LM_APP https://github.com/ThorsenRune/LM-Android
+[LM_APP](https://github.com/ThorsenRune/LM-Android
 
 LM_HW https://github.com/ThorsenRune/LM-HW
 
@@ -59,3 +60,7 @@ Un obiettivo attuale è di rendere il sistema disponibile per tutti coloro che d
 [Sourceforge: Myo-Electrically Controlled Functional Electrical muscle Stimulation. An utility for assisting the tetraplegic hand. A method of rehabilitation after stroke.](https://sourceforge.net/p/mecfes/wiki/Home/)
 
 ### Italiano
+...
+# Edit
+[This file](https://github.com/ThorsenRune/MeCFES/edit/master/README.md)
+
