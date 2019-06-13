@@ -6,6 +6,7 @@
 Il progetto utilizzando Myo-electrically Controlled Functional Electrical Stimulation,  ha come scopo principale la riabilitazione di pazienti affetti da disabilità motorie. Si rivolge verso le persone con danni alla sistema nervosa centrale come: ictus, lesioni spinali, sclerosi multipla o trauma cranico, etc.
 # Indice del progetto (link technici)
 ## English
+The principle of MeCFES (Myo electrically  Controlled Functional Electrical Stimulation) is described in scientific papers like [this](https://pdfs.semanticscholar.org/c98e/46bb44a240f6584c08453313808751d9ce88.pdf)
 Collaborative design results
 Four repositories with documentation of the device have been published:
 
