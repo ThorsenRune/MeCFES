@@ -13,3 +13,5 @@ The four repositories are
 * [Firmware - LM_FW]( https://github.com/ThorsenRune/LM_FW)
 * [Android App - LM_APP](https://github.com/ThorsenRune/LM-Android)
 * [Electrode Applicator - LM_ElAp](https://cad.onshape.com/documents/661382f7fa0e94bae04c481c/w/cea5bdd3a732ac9eed1e4dd4/e/99b5a64c64c716ef593bdf7d) Current onshape drawing.
+
+* [Project Wiki](https://github.com/ThorsenRune/MeCFES/wiki)
